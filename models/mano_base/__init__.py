@@ -1,0 +1,1 @@
+from .mano_base_model import Mano_MobileNetV2

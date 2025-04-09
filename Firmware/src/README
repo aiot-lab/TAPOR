@@ -1,0 +1,17 @@
+THE RELATED MATERIALS:
+
+https://groups.google.com/a/tensorflow.org/g/tflite
+
+https://github.com/jomjol/jomjol-tflite-wrapper/tree/master?tab=readme-ov-file
+
+https://github.com/Recognition2/tfmicro
+
+https://github.com/atomic14/tensorflow-lite-esp32/tree/master
+
+https://github.com/atomic14/tensorflow-lite-esp32/blob/master/Train%20Model.ipynb
+
+https://www.youtube.com/watch?v=kZdIO82059E&t=193s     
+GOOD TO START WITH. BUT STILL HAVE BUGS WHEN RUNNING CNN. WE FIXED IT IN THIS FIRMWIRE.
+
+https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/hw-reference/esp32s3/user-guide-devkitc-1.html   
+ THE CONFIGURATION OF ESP32

@@ -112,4 +112,15 @@ Results will be saved in the 'gesture_logs' folder.
 MIT License
 
 ## Citation
-Coming soon.
+@article{Zhangtapor2025,
+  title = {{{TAPOR}}: {{3D}} Hand Pose Reconstruction with Fully Passive Thermal Sensing for around-Device Interactions},
+  author = {Zhang, Xie and Li, Chengxiao and Wu, Chenshu},
+  year = {2025},
+  month = jun,
+  journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+  volume = {9},
+  number = {2},
+  doi = {10.1145/3729499},
+  articleno = {63}
+}
+

@@ -4,7 +4,7 @@ TAPOR is a privacy-preserving, non-contact sensing system that enables accurate 
 
 ![Demo](figures/short_demo1(1).gif)
 
-[📺 Watch Full Demo with Applications](https://www.youtube.com/watch?v=XCKol-EjH7Y)
+[📺 Watch Full Demo with Applications](https://www.youtube.com/watch?v=dRiqxPZx4zk)
 
 ## Key Features
 - Privacy-preserving hand pose reconstruction using passive thermal sensing

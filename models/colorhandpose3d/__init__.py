@@ -1,0 +1,1 @@
+from .model.ColorHandPose3D import ColorHandPose3D

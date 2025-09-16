@@ -30,6 +30,8 @@ Download the following resources and place them in the root directory:
 - [Test Dataset](https://drive.google.com/file/d/1cnwdelIiV4V15rq3ANN93YsNvAjpvV5O/view?usp=sharing)
 - [Pre-trained Weights](https://drive.google.com/file/d/183gpLbMAORcaPqkF7naI5xlrQ5T2p_MJ/view?usp=sharing)
 
+*Please download the 'Mano models' from https://drive.google.com/file/d/1X1DpN1p6bHkmlZn9fDXc-vT12hSp9hWT/view?usp=sharing and add the files into models/mano_base/mamo/*
+
 ## Model Training and Evaluation
 
 ### Training TAPOR
